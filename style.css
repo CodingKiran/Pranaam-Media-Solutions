@@ -103,6 +103,7 @@ nav ul li:hover {
   background-color: #eaeaea;
   border-radius: 10px;
   margin-bottom: 50px;
+  padding-bottom: 10px;
 }
 
 .aboutus-matter-para {
@@ -280,6 +281,7 @@ footer {
 .privacy-wrapper {
   margin-left: 10px;
   margin-right: 10px;
+  text-align: left;
 }
 
 .heading-footer {
@@ -313,6 +315,7 @@ footer {
 
 .fa-brands {
   margin-left: 10px;
+  cursor: pointer;
 }
 
 .follow-us {

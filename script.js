@@ -7,3 +7,8 @@ hamburger.addEventListener('click', ()=>{
 navLinks.classList.toggle('show');
 });
 
+const date = new Date();
+let year = date.getFullYear();
+
+const updateYear = document.querySelector('.year');
+updateYear.innerHTML= year;
