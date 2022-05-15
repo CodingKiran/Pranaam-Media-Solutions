@@ -17,4 +17,9 @@ I took the liberty to add content to privacy policy, terms and consitions pages 
 
 Used IS pseduo class to make the code more compact. Working with % and rem is fun. Removed unused and unnecessary code. Also, created the same website using react components, props, etc to make the code reusuable and efficient.
 
+## Examples:
+Take a look at these couple examples that I have in my own portfolio:
 
+**CodeWars:** https://github.com/CodingKiran/CodeWars
+
+**Portfolio:** https://github.com/CodingKiran/Portfolio
